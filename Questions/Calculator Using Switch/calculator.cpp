@@ -2,7 +2,7 @@
 This Program calculates 
 i.e do arithemetic operations between two numbers
 Written By: Khushal Sachdeva
-Date: 26 Nov 2020
+Date: 26 Jan 2020
 */
 #include <iostream>
 using namespace std;
